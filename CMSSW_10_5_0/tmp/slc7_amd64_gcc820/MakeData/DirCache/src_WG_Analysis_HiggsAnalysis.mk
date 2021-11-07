@@ -1,0 +1,2 @@
+ALL_PACKAGES += WG_Analysis/HiggsAnalysis
+subdirs_src_WG_Analysis_HiggsAnalysis := src_WG_Analysis_HiggsAnalysis_CombinedLimit

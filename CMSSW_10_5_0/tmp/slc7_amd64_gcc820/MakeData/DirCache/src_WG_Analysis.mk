@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=WG_Analysis
+subdirs_src_WG_Analysis = src_WG_Analysis_HiggsAnalysis
